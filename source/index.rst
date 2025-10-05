@@ -1,6 +1,6 @@
 
 
-PredSim
+Website
 ========
 
 .. toctree::
